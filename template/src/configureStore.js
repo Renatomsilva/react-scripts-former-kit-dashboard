@@ -1,7 +1,4 @@
-import {
-  applyMiddleware,
-  createStore,
-} from 'redux'
+import { applyMiddleware, createStore } from 'redux'
 
 import { createEpicMiddleware } from 'redux-observable'
 
